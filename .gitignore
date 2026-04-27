@@ -1,0 +1,19 @@
+# Backup folders
+_backup_old_nested_folders/
+E_Bussiness_backend_build_artifacts_backup_*/
+
+# Build artifacts
+bin/
+obj/
+Ophelia.Api/bin/
+Ophelia.Api/obj/
+
+# Visual Studio / editor files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Logs and OS files
+*.log
+.DS_Store
